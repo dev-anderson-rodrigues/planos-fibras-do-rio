@@ -5,9 +5,9 @@
 - Intervalo de CEP: 22451267 a 22451730
 - Instalação: R$ 150,00
 - Planos:
-  - 300mb – R$ 119,90
-  - 500mb – R$ 139,90
-  - 600mb – R$ 149,90
+  - 300megas – R$ 119,90
+  - 500megas – R$ 139,90
+  - 600megas – R$ 149,90
 
 ---
 
@@ -17,8 +17,8 @@
 - CEP: 20230011
 - Instalação: R$ 150,00
 - Planos:
-  - 300mb – R$ 99,90
-  - 600mb – R$ 119,90
+  - 300megas – R$ 99,90
+  - 600megas – R$ 119,90
 
 ---
 
@@ -28,9 +28,9 @@
 - CEP: 22631003
 - Instalação: Isenta
 - Planos:
-  - 300mb – R$ 159,90
-  - 500mb – R$ 189,90
-  - 600mb – R$ 199,90
+  - 300megas – R$ 159,90
+  - 500megas – R$ 189,90
+  - 600megas – R$ 199,90
 
 ---
 
@@ -40,6 +40,6 @@
 - CEP: 22640904
 - Instalação: Isenta
 - Planos:
-  - 300mb – R$ 159,90
-  - 500mb – R$ 189,90
-  - 600mb – R$ 199,90
+  - 300megas – R$ 159,90
+  - 500megas – R$ 189,90
+  - 600megas – R$ 199,90
