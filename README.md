@@ -1,7 +1,7 @@
 # Planos por Região - FIBRAS DO RIO
 
-## Região: Rocinha
-- Bairro: Rocinha
+## Região: Rocinha, Gávea
+- Bairro: Rocinha, Gávea
 - Intervalo de CEP: 22451267 a 22451730
 - Instalação: R$ 150,00
 - Planos:
